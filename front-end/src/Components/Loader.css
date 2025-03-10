@@ -1,0 +1,15 @@
+/* Center the loader */
+.loader-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: white;
+  }
+  
+  /* Loader GIF styling */
+  .loader-gif {
+    width: 200px; /* Adjust size as needed */
+    height: auto;
+  }
+  
